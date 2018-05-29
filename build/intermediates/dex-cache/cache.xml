@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhengkaiwen/AndroidStudioProjects/TrackerDemo1/trackerDemo/libs/swallesdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b566bb3dacc24738e9f7c7a134c6a47d2323866e">
+        <dex dex="/Users/zhengkaiwen/AndroidStudioProjects/TrackerDemo1/trackerDemo/build/intermediates/transforms/dex/debug/folders/1000/2/swallesdk_78aedcf226a6074deb5d411fc203b0c0d6dd0fcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhengkaiwen/AndroidStudioProjects/TrackerDemo1/trackerDemo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zhengkaiwen/AndroidStudioProjects/TrackerDemo1/trackerDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9da0eacbbf29a7b9c0c00cc5ebd4726e674bf879/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhengkaiwen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/zhengkaiwen/AndroidStudioProjects/TrackerDemo1/trackerDemo/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_59c9fa58d5c76364151096feab641bbf43a591c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhengkaiwen/AndroidStudioProjects/TrackerDemo1/trackerDemo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d9c3ffd3f0e4c769b29a6fdff95b6331b57d4364">
+        <dex dex="/Users/zhengkaiwen/AndroidStudioProjects/TrackerDemo1/trackerDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_54de3e5e8a4d04c443bad002c312709538e594cf/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:1:1-106:12
+INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:1:1-106:12
+INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:1:1-106:12
+INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:1:1-106:12
+MERGED from [:slidingMenuLibrary] C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\slidingMenuLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:1:1-106:12
+INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:1:1-106:12
+INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:1:1-106:12
+	package
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [:slidingMenuLibrary] C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\slidingMenuLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:slidingMenuLibrary] C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\slidingMenuLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:10:5-12:35
+	android:required
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:11:9-53
+uses-feature#android.hardware.camera
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:14:5-60
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:14:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:15:19-67
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:18:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.CAMERA
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:25:5-65
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:25:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:27:5-69
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:27:22-66
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:30:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:33:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:36:5-80
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:36:22-77
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:39:5-79
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:39:22-76
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:42:5-85
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:42:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:45:5-68
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:45:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:48:5-68
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:48:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:54:5-81
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:54:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:57:5-79
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:57:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:60:5-76
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:60:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:63:5-79
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:63:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:66:5-76
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:66:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:69:5-75
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:69:22-72
+uses-permission#android.permission.INTERNET
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:72:5-67
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:72:22-64
+application
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:80:5-98:19
+	android:label
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:84:9-41
+	android:hardwareAccelerated
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:82:9-44
+	android:icon
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:83:9-45
+	android:allowBackup
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:81:9-35
+activity#com.trackerdemo.activity.MainActivity
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:86:9-97:20
+	android:screenOrientation
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:89:13-49
+	android:windowSoftInputMode
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:91:13-86
+	android:configChanges
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:88:13-59
+	android:theme
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:90:13-71
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:87:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:92:13-96:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:93:17-69
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:93:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:95:17-77
+	android:name
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:95:27-74
+supports-screens
+ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:100:5-105:39
+	android:largeScreens
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:102:9-36
+	android:smallScreens
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:105:9-36
+	android:normalScreens
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:103:9-37
+	android:resizeable
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:104:9-34
+	android:anyDensity
+		ADDED from C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\trackerDemo\src\main\AndroidManifest.xml:101:9-34

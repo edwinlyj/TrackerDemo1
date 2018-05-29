@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- music中seekbar背景图片-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:shape="line">
+     
+    <!-- 实心 -->
+     <stroke 
+         android:width="3dp"
+         android:color="#00B2EE"
+         />
+     
+     <!-- 圆角 -->
+     <corners
+     android:radius="3dp" />
+</shape>

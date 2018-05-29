@@ -1,0 +1,447 @@
+<resources>
+
+    <string name="app_name">TrackerDemo</string>
+    
+    
+     <!-- StartLoadingActivity -->
+    
+    <!-- 登录 -->
+    <string name="login">登录</string>
+    <!-- 注册 -->
+    <string name="register">注册 </string>
+    <!-- 让寻找变得简单 -->
+	<string name="make_the_search_easy">让寻找变得简单</string>
+    
+    
+    <!-- LoginActivity -->
+    
+    <!-- 快速注册 -->
+    <string name="quick_registration">快速注册</string>
+    <!-- 电子邮件 -->
+	<string name="email">电子邮件</string>
+    <!-- 密码 -->
+	<string name="password">密码 </string>
+    <!-- 忘记密码 -->
+	<string name="forgot_password">忘记密码</string>
+	<!-- 正在登录服务器,请稍后 -->
+	<string name="login_loading">正在登录服务器,请稍后 !</string>
+	<!-- 当前网络不可用 -->
+    <string name="the_current_network_is_unavailable">当前网络不可用!</string>
+    <!-- 登录服务器失败 -->
+    <string name="login_server_failed">登录服务器失败!</string>
+    <!-- 登录成功 -->
+    <string name="login_successful">登录成功!</string>
+    <!-- 用户名或密码为空 -->
+    <string name="username_or_password_is_empty">用户名或密码为空!</string>
+    <!-- 密码错误 -->
+    <string name="password_error">密码错误!</string>
+    <!-- 登录出现异常 -->
+    <string name="login_exception">登录出现异常!</string>
+    <!-- 用户信息填写不正确 -->
+    <string name="user_information_is_incorrectly_filled">用户信息填写不正确!</string>
+    
+    
+     <!-- RegisterActivity -->
+     <!-- 正在请求服务器，请稍后-->
+    <string name="requesting_server_now">正在请求服务器，请稍后!</string>
+     
+     <!-- 请求服务器失败-->
+    <string name="request_server_failed">请求服务器失败!</string>
+     
+    <!-- 注册成功-->
+    <string name="register_successful">注册成功!</string>
+    <!-- 邮箱为空-->
+    <string name="email_empty">邮箱为空!</string>
+    <!-- 密码为空-->
+    <string name="the_password_is_empty">密码为空!</string>
+    <!-- 该邮箱已被注册-->
+    <string name="the_mailbox_has_been_registered">该邮箱已被注册!</string>
+    <!-- 出现异常-->
+    <string name="abnormal_occurrence">出现异常!</string>
+    <!-- 用户信息不正确-->
+    <string name="user_information_is_incorrect">用户信息不正确!</string>
+     
+      <!-- 邮箱格式不正确-->
+    <string name="mailbox_format_is_incorect">邮箱格式不正确!</string>
+     
+     <!-- ReSetPwdActivity -->
+    <!-- 发送密码重置连接 -->
+    <string name="send_password_reset_connection">发送密码重置连接</string>
+    
+    <!-- 找回密码邮件发送成功 -->
+    <string name="retrieve_password_mail_sent_successfully">找回密码邮件发送成功!</string>
+    
+    <!-- 发送邮件出现异常 -->
+    <string name="send_mail_to_an_exception">发送邮件出现异常!</string>
+    
+    <!-- 用户未注册或country为空 -->
+    <string name="the_user_is_not_registered_or_country_is_empty">用户未注册或country为空!</string>
+    
+     <!-- 找回密码出现异常 -->
+    <string name="abnormal_password_retrieval">找回密码出现异常!</string>
+    <!-- 您所输入的内容有空值 -->
+    <string name="the_value_you_entered_is_empty">您所输入的内容有空值!</string>
+    
+    
+    
+    
+    <!-- UpDatePwdActivity -->
+    <!-- 修改密码 -->
+    <string name="modify_password">修改密码</string>
+   <!-- 旧密码 -->
+    <string name="old_password">旧密码</string>
+    <!-- 新密码 -->
+    <string name="new_password">新密码</string>
+   <!-- 完成 -->
+    <string name="complete">完成</string>
+    <!-- 修改密码成功 -->
+    <string name="password_successfully_modified">修改密码成功！</string>
+   <!-- 用户信息填写不完整 -->
+    <string name="incomplete_user_information">用户信息填写不完整!</string>
+    
+   <!-- 修改密码出现异常-->
+    <string name="abnormal_password_modify">修改密码出现异常!</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <!-- MainActivity -->
+    <!-- 确 定 -->
+    <string name="confirm">确 定</string>
+    <!-- 取消 -->
+    <string name="cancel">取消 </string>
+    <!-- 开启 -->
+    <string name="main_open">开启</string>
+    <!-- 再按一次退出程序？ -->
+    <string name="main_quit">再按一下退出程序</string>
+    <!-- 请开启蓝牙 -->
+    <string name="main_bluetooth_open">请开启蓝牙</string> 
+	<!-- 请先关闭报警 -->
+    <string name="turn_off_the_alarm">请先关闭报警</string>
+    <string name="The_bop_lost_beyond_the_safe_distance">防丢器超出了安全距离！</string>
+    
+     <!-- 呼叫 -->
+    <string name="call">呼叫</string>
+    
+    <!-- 蓝牙 -->
+    <string name="bluetooth">蓝牙:</string>
+    <!-- 已启用 -->
+    <string name="enabled">已启用</string>
+    <!-- 未启用 -->
+    <string name="not_enabled">未启用</string>
+    <!-- 地图模式 -->
+    <string name="map_mode">地图模式</string>
+    <!-- 拍照模式 -->
+    <string name="camera_mode">拍照模式</string>
+    <!-- 激活账户 -->
+    <string name="activate_account">激活账户</string>
+    
+    <!-- 不能重复激活账户 -->
+    <string name="cannot_activate_repeatedly">不能重复激活账户!</string>
+    <!-- 未报失 -->
+    <string name="not_missing">未报失 </string>
+    <!-- 解除报失-->
+    <string name="relieve_missing">解除报失</string>
+    <!-- 未绑定 -->
+    <string name="unbound">未绑定</string>
+    <!-- 解除绑定 -->
+    <string name="relieve_bound">解除绑定</string>
+    <!-- 修改名称 -->
+    <string name="modify_name">修改名称</string>
+    <!-- 解除绑定 后将会删除当前设备-->
+    <string name="after_removal_the_current_device_will_be_removed">解除绑定后将会删除当前设备</string>
+    
+    <!-- 激活邮件接口*************************************-->
+    
+     <!-- 激活邮件已发送 -->
+    <string name="activation_mail_sent">激活邮件已发送! </string>
+    <!-- 信息不完整-->
+    <string name="incomplete_information">信息不完整!</string>
+    <!-- 用户未注册 -->
+    <string name="user_not_registered">用户未注册!</string>
+    <!-- 激活邮件发送出现异常 -->
+    <string name="activation_mail_sent_an_exception">激活邮件发送出现异常!</string>
+    
+    
+    <!-- 绑定设备接口*************************************-->
+    
+    <!-- 绑定设备成功-->
+    <string name="bind_device_successfully">绑定设备成功! </string>
+    <!-- 用户未登录-->
+    <string name="user_not_logined_in">用户未登录!</string>
+    <!-- 设备信息不完整 -->
+    <string name="incomplete_device_information">设备信息不完整!</string>
+    <!-- 用户不存在 -->
+    <string name="user_does_not_exist">用户不存在!</string>
+    <!-- 绑定用户出现异常 -->
+    <string name="bind_user_exception">绑定用户出现异常!</string>
+      <!-- 用户未激活-->
+    <string name="user_not_activated">用户未激活!</string>
+    <!-- 设备已被绑定-->
+    <string name="the_device_has_been_bound">设备已被绑定!</string>
+    
+    
+    <!-- 解绑设备接口*************************************-->
+    
+    <!-- 设备解除绑定成功-->
+    <string name="device_unbound_successfully">设备解除绑定成功! </string>
+    
+    <!-- mac为空-->
+    <string name="mac_is_empty">mac为空!</string>
+    <!-- 设备未绑定 -->
+    <string name="device_not_bound">设备未绑定!</string>
+    <!-- 设备解除绑定出现异常 -->
+    <string name="an_exception_occurred_on_device_unbound">设备解除绑定出现异常!</string>
+    
+    
+    
+    
+    
+     <!-- 修改设备头像接口*************************************-->
+    
+    <!-- 头像更新成功-->
+    <string name="head_updated_successfully">头像更新成功! </string>
+    
+    <!-- 修改设备头像出现异常-->
+    <string name="modify_device_head_to_appear_abnormal">修改设备头像出现异常!</string>
+    
+    
+    
+    
+    
+      <!-- 修改设备名字接口*************************************-->
+    
+    <!-- 修改设备名称成功-->
+    <string name="modify_device_name_successfully">修改设备名称成功! </string>
+    
+    <!-- 修改设备名称出现异常-->
+    <string name="modify_device_name_exception">修改设备名称出现异常!</string>
+    
+    
+    
+    
+    
+    <!-- 断开上传位置信息接口*************************************-->
+    
+    <!-- 位置信息上传成功-->
+    <string name="location_information_uploaded_successfully">位置信息上传成功! </string>
+    <!-- 设备不存在-->
+    <string name="device_does_not_exist">防丢器不存在!</string>
+    <!-- 位置信息上传出现异常-->
+    <string name="abnormal_upload_of_position_information">位置信息上传出现异常!</string>
+    
+    
+     <!-- 报失设备接口*************************************-->
+    
+    <!-- 报失成功-->
+    <string name="missing_successfully">报失成功! </string>
+    <!-- 用户未登录或未激活-->
+    <string name="the_user_is_not_logged_in_or_not_activated">用户未登录或未激活!</string>
+    <!-- 报失出现异常-->
+    <string name="missing_exception">报失出现异常!</string>
+    <!-- 该设备未绑定-->
+    <string name="the_device_is_not_bound">该设备未绑定!</string>
+    
+    
+    <!-- 解除报失设备接口*************************************-->
+    
+    <!-- 解除报失成功-->
+    <string name="relieve_missing_successfully">解除报失成功! </string>
+    <!-- 解除报失出现异常-->
+    <string name="relieve_missing_exception">解除报失出现异常!</string>
+    <!-- 该设备不属于您，无法解除报失-->
+    <string name="the_device_does_not_belong_to_you_can_not_relieve_missing">该设备不属于您，无法解除报失!</string>
+    
+    
+    
+    
+    
+    <!-- 查看用户绑定的所有设备*************************************-->
+    
+    <!-- 查询所有设备成功-->
+    <string name="query_all_devices_successfully">查询所有设备成功! </string>
+    <!-- 用户未绑定任何设备-->
+    <string name="the_user_is_not_bound_to_any_device">用户未绑定任何设备!</string>
+   
+    
+     <!-- 搜索到报失设备发送到绑定用户邮箱接口*************************************-->
+    
+    <!-- 报失设备发送邮件成功-->
+    <string name="send_mail_stolen_equipment_successfully">报失设备发送邮件成功! </string>
+    <!-- Json字符串为空-->
+    <string name="json_string_is_empty">Json字符串为空!</string>
+    <!-- 报失设备发送邮件异常-->
+    <string name="send_mail_reported_abnormal_equipment">报失设备发送邮件异常!</string>
+    
+    
+    
+    
+    
+    <!-- 查询当前用户的当前设备的断开位置记录接口*************************************-->
+    
+    <!-- 查询数据成功-->
+    <string name="query_data_success">查询数据成功! </string>
+    <!-- 用户信息不完整-->
+    <string name="user_information_incomplete">用户信息不完整!</string>
+    <!-- 该设备没有相应记录-->
+    <string name="the_device_does_not_have_a_corresponding_record">该设备没有相应记录!</string>
+     <!-- 查询出现异常-->
+    <string name="query_exception">查询出现异常!</string>
+    
+    <!-- RightContentFragment -->
+
+
+    <!-- 信号强度 -->
+    <string name="rssi">信号强度:</string>
+    <!-- 强 -->
+    <string name="strong">强</string>
+    <!-- 中 -->
+    <string name="middle">中</string>
+    <!-- 弱 -->
+    <string name="weak">弱</string>
+
+    <!-- 距离 -->
+    <string name="dis">距离:</string>
+    <!-- 近 -->
+    <string name="near">近</string>
+    <!-- 远 -->
+    <string name="far">远</string>
+
+    <!-- 状态 -->
+    <string name="status">连接状态:</string>
+    <!-- 已连接 -->
+    <string name="connect">已连接</string>
+    <!-- 未连接 -->
+    <string name="disconnect">未连接</string>
+    <!-- 正在连接 -->
+    <string name="connecting">正在连接</string>
+
+    <!-- 电量 -->
+    <string name="Battery">电量:</string>
+    <!-- 最后丢失位置 -->
+    <string name="last_lost_address">最后丢失位置</string>
+    
+     <!-- 请先连接设备 -->
+    <string name="connect_device">请先连接设备</string>
+
+    <!-- LeftFragment -->
+     <!-- 关于 -->
+    <string name="about">关于</string>
+    
+    <!-- 软件版本 -->
+    <string name="version">版本:</string>
+    <!-- 重命名 -->
+    <string name="rename">重命名</string>
+    <!-- 序列号 -->
+    <string name="serial_number">序列号</string>
+    <!-- 设备列表 -->
+    <string name="device_list">设备列表</string>
+	<!-- 正在搜索... -->
+    <string name="searching">正在搜索</string>
+    <!-- 最多只能连接5个设备.. -->
+    <string name="connected_five">最多只能连接5个设备</string>
+    <!-- 更换设备名字 -->
+    <string name="updata_name">更换设备名字</string>
+    
+      <!-- 保存的设备 -->
+    <string name="saved_devices">保存的设备</string>
+    
+      <!-- 搜索列表 -->
+    <string name="search_list">搜索列表</string>
+     <!-- 添加设备 -->
+    <string name="add_devices">添加设备</string>
+     <!-- 没有设备 -->
+    <string name="no_device">没有设备</string>
+    
+    
+      <!-- 删除设备 -->
+    <string name="delete_device">删除设备</string>
+    
+    <!-- 是否删除设备 -->
+    <string name="do_you_want_to_delete_the_device">是否删除设备?</string>
+    
+    <!-- SettingActivity -->
+    
+    <!-- 设置 -->
+    <string name="settings">设置</string>
+	<!-- 通用设置 -->
+    <string name="general_settings">通用设置</string>
+	<!-- 断开连接时报警 -->
+    <string name="Alarm">断开连接时报警</string>
+    <!-- 静音区域 -->
+    <string name="silent_area">静音区域</string>
+    
+    <!-- 手机设置 -->
+    <string name="mobile_phone_set">手机设置</string>
+	<!-- 声音 -->
+    <string name="Sound">声音</string>
+    <!-- 震动-->
+    <string name="Vibration">震动</string>
+    <!-- 闪光灯 -->
+    <string name="flash">闪光灯</string>
+    <!-- 防丢范围-->
+    <string name="alarm_distance">防丢范围</string>
+    <!-- 地图-->
+    <string name="map">地图</string>
+    
+    <!-- 高德 -->
+    <string name="amap">高德</string>
+    <!-- 谷歌 -->
+    <string name="google">谷歌</string>
+    
+      <!-- 铃声选择 -->
+    <string name="Ringtones">铃声选择</string>
+    <!-- 清除记录还原设置-->
+    <string name="clear_record">清除记录还原设置</string>
+    <!-- 恢复出厂设置-->
+    <string name="Restore_factory_settings">恢复出厂设置</string>
+    <!-- 是否恢复出厂设置-->
+    <string name="Whether_to_Restore_factory_settings">是否恢复出厂设置?</string>
+    
+     <!-- 退出登录-->
+    <string name="login_out">退出登录</string>
+    
+    <!-- 退出登录后将断开所有已连接的设备?-->
+    <string name="After_login_out_all_connected_devices_are_disconnected">退出登录后将断开所有已连接的设备?</string>
+    
+    <!-- 打开 -->
+    <string name="open">打开</string>
+    <!-- 关闭 -->
+    <string name="close">关闭 </string>
+    
+    <!-- cameraActivity -->
+  <!-- 拍照成功 -->
+    <string name="Photo_success">拍照成功</string>
+    
+    <!-- LostActivity -->
+     <!-- 历史丢失记录 -->
+    <string name="history_lost_record">历史丢失记录</string>
+    <!-- 名称 -->
+     <string name="name">名称:</string>
+     <!-- 地址 -->
+     <string name="address">地址:</string>
+    <!-- 经度 -->
+     <string name="Longitude">经度:</string>
+     <!-- 纬度 -->
+      <string name="latitude">纬度:</string>
+      <!-- 时间 -->
+      <string name="Time">时间:</string>
+      <!-- 列表-模式-->
+      <string name="list_mode">列表模式</string>
+  
+      <!-- 是否删除该记录？ -->
+      <string name="delete">是否删除该记录？</string>
+      
+      <string name="Edit">编辑</string>
+       <string name="dele">删除</string>
+    
+</resources>

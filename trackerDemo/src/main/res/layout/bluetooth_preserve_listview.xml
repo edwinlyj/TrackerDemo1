@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+ 
+    android:orientation="vertical" >
+    <!--  android:id="@+id/fl_preserve_listview" -->
+    <RelativeLayout
+        android:padding="5dp"
+        android:id="@+id/fl_preserve_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+       
+        >
+        <ImageView
+              android:id="@+id/iv"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+           android:src="@drawable/search"
+          android:scaleType="centerCrop"
+            android:layout_centerVertical="true"
+            
+            android:layout_marginLeft="5dp"
+            />
+        
+        
+        
+         <LinearLayout 
+             android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+             android:layout_toRightOf="@id/iv"
+             android:layout_marginLeft="20dp"
+             android:orientation="vertical"
+            
+             android:layout_centerVertical="true"
+             >
+             
+          
+      
+             
+            
+        <TextView 
+		    android:id="@+id/tv_name"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginLeft="5dp"
+		    android:textSize="20sp"
+		    android:textColor="@android:color/white"
+		    
+		    />
+       
+       </LinearLayout>
+        
+        
+        
+        
+        
+     <!--    <TextView 
+            android:id="@+id/tv_preserve_listview_name"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_toRightOf="@id/iv"
+		    android:layout_marginLeft="10dp"
+		    android:layout_centerVertical="true"
+		    android:textSize="15sp"
+		    android:textColor="#808A87"
+		 /> -->
+     <!--    <Button 
+             android:id="@+id/bt_baoshi"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_toRightOf="@id/tv_preserve_listview_name"
+		    android:layout_marginLeft="10dp"
+		    android:layout_centerVertical="true"
+		    android:text="报失"
+		    
+		    android:textColor="#808A87"
+            
+            />
+        
+         <Button 
+             android:id="@+id/bt_bind"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_toRightOf="@id/bt_baoshi"
+		    android:layout_marginLeft="10dp"
+		    android:layout_centerVertical="true"
+		    android:text="未绑定"
+		    
+		    android:textColor="#808A87"
+            
+            /> -->
+        
+       <!--   <ImageView
+            android:id="@+id/iv_bluetooth_listview_item"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/s"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:scaleType="fitXY"
+            android:layout_marginRight="10dp"
+            /> -->
+        
+       
+            
+            <Button 
+                android:id="@+id/bt_bluetooth_disconnect"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+                android:background="@drawable/bt_listview_select"
+                
+                />
+            
+         <!--    <ProgressBar 
+                android:id="@+id/pb_bluetooth_connect"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+                style="@android:attr/progressBarStyleSmall"
+                
+                android:visibility="gone"
+                /> -->
+            
+            <!-- <Button 
+                android:id="@+id/bt_bluetooth_connect"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+                android:background="@drawable/bt_listview_unselect"
+                android:visibility="gone"
+                /> -->
+      
+    </RelativeLayout>
+</LinearLayout>

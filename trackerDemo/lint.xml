@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="ContentDescription" severity="ignore" />
+    <issue id="DefaultLocale">
+        <ignore path="src/com/s/light/activity/BluetoothFragment.java" />
+    </issue>
+    <issue id="DisableBaselineAlignment" severity="ignore" />
+    <issue id="HandlerLeak">
+        <ignore path="src/com/s/light/activity/MainActivity.java" />
+    </issue>
+    <issue id="HardcodedText" severity="ignore" />
+    <issue id="InefficientWeight" severity="ignore" />
+    <issue id="InflateParams">
+        <ignore path="src/com/s/light/adapter/BluetoothDeviceIncreaseAdapter.java" />
+        <ignore path="src/com/s/light/adapter/BluetoothDevicePreserveAdapter.java" />
+    </issue>
+    <issue id="NestedWeights" severity="ignore" />
+    <issue id="SpUsage" severity="ignore" />
+    <issue id="Typos">
+        <ignore path="res/values/strings.xml" />
+    </issue>
+    <issue id="UselessParent" severity="ignore" />
+    <issue id="ViewHolder">
+        <ignore path="src/com/s/light/adapter/BluetoothDeviceIncreaseAdapter.java" />
+        <ignore path="src/com/s/light/adapter/BluetoothDevicePreserveAdapter.java" />
+    </issue>
+</lint>

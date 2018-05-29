@@ -1,0 +1,148 @@
+<resources>
+
+    <string name="app_name">Tracker Demo</string>
+
+    <!-- MainActivity -->
+    <!-- 确 定 -->
+    <string name="confirm">confirm</string>
+    <!-- 取消 -->
+    <string name="cancel">cancel</string>
+    <!-- 开启 -->
+    <string name="main_open">open</string>
+    <!-- 再按一次退出程序？ -->
+    <string name="main_quit">Press the exit procedure again</string>
+    <!-- 请开启蓝牙 -->
+    <string name="main_bluetooth_open">Turn on bluetooth</string>
+
+    <!-- 请先关闭报警 -->
+    <string name="turn_off_the_alarm">Please turn off the alarm</string>
+    <!-- RightContentFragment -->
+
+
+    <!-- 信号强度 -->
+    <string name="rssi">SIGNAL:</string>
+    <!-- 强 -->
+    <string name="strong">STRONG</string>
+    <!-- 中 -->
+    <string name="middle">MID</string>
+    <!-- 弱 -->
+    <string name="weak">WEAK</string>
+
+    <!-- 距离 -->
+    <string name="dis">DISTANCE:</string>
+    <!-- 近 -->
+    <string name="near">NEAR</string>
+    <!-- 远 -->
+    <string name="far">FAR</string>
+
+    <!-- 状态 -->
+    <string name="status">STATUS:</string>
+    <!-- 已连接 -->
+    <string name="connect">CONNECTED</string>
+    <!-- 未连接 -->
+    <string name="disconnect">DISCONNECTED</string>
+    <!-- 正在连接 -->
+    <string name="connecting">CONNECTING</string>
+
+    <!-- 电量 -->
+    <string name="Battery">BATTERY:</string>
+    <!-- 最后丢失位置 -->
+    <string name="last_lost_address">Final lost position</string>
+     <!-- 请先连接设备 -->
+    <string name="connect_device">Please connect the device first</string>
+    
+    <string name="The_bop_lost_beyond_the_safe_distance">The bop lost beyond the safe distance!</string>
+
+    <!-- LeftFragment -->
+    <!-- 重命名 -->
+    <string name="rename">Rename</string>
+    <!-- 设备列表 -->
+    <string name="device_list">Device List</string>
+	<!-- 正在搜索... -->
+    <string name="searching">searching...</string>
+    <!-- 最多只能连接5个设备.. -->
+    <string name="connected_five">Up to 5 devices can be connected</string>
+    
+    <!-- 更换设备名字 -->
+    <string name="updata_name">Rename the device name</string>
+    
+      <!-- 保存的设备 -->
+    <string name="saved_devices">Saved devices</string>
+    
+     <!-- 搜索列表 -->
+    <string name="search_list">Search List</string>
+     <!-- 添加设备 -->
+    <string name="add_devices">add devices</string>
+     <!-- 没有设备 -->
+    <string name="no_device">No device</string>
+    
+    <!-- SettingActivity -->
+    
+    <!-- 设置 -->
+    <string name="settings">Settings</string>
+	<!-- 通用设置 -->
+    <string name="general_settings">General settings</string>
+	<!-- 断开连接时报警 -->
+    <string name="Alarm">Alarm when disconnected</string>
+    <!-- 静音区域 -->
+    <string name="silent_area">Silent area</string>
+    
+    <!-- 手机设置 -->
+    <string name="mobile_phone_set">Mobile settings</string>
+	<!-- 声音 -->
+    <string name="Sound">Sound</string>
+    <!-- 震动-->
+    <string name="Vibration">Vibration</string>
+    <!-- 闪光灯 -->
+    <string name="flash">Flash</string>
+    <!-- 防丢范围-->
+    <string name="alarm_distance">Alarm Distance</string>
+    
+    <!-- 地图-->
+    <string name="map">Map</string>
+    
+    <!-- 高德 -->
+    <string name="amap">Amap</string>
+    <!-- 谷歌 -->
+    <string name="google">Google</string>
+    
+      <!-- 铃声选择 -->
+    <string name="Ringtones">Ringtones</string>
+    <!-- 清除记录还原设置-->
+    <string name="clear_record">Clear record restore settings</string>
+    <!-- 恢复出厂设置-->
+    <string name="Restore_factory_settings">Restore factory settings</string>
+    <!-- 是否恢复出厂设置-->
+    <string name="Whether_to_Restore_factory_settings">Whether to restore the factory settings?</string>
+    
+    <!-- 打开 -->
+    <string name="open">open</string>
+    <!-- 关闭 -->
+    <string name="close">close</string>
+    
+    <!-- cameraActivity -->
+  <!-- 拍照成功 -->
+    <string name="Photo_success">Photo success</string>
+    
+        <!-- LostActivity -->
+     <!-- 丢失记录 -->
+    <string name="lost_list">Lost record</string>
+    <!-- 名称 -->
+     <string name="name">Name:</string>
+     <!-- 地址 -->
+     <string name="address">Address:</string>
+    <!-- 经度 -->
+     <string name="Longitude">Longitude:</string>
+     <!-- 纬度 -->
+      <string name="latitude">Latitude:</string>
+      <!-- 时间 -->
+      <string name="Time">Time:</string>
+       <!-- 列表-模式-->
+      <string name="list_mode">List mode</string>
+      <!-- 地图-模式-->
+    <string name="map_mode">Map Mode</string>
+      <!-- 是否删除该记录？ -->
+      <string name="delete">Do you want to delete this record?</string>
+    <string name="Edit">Edit</string>
+       <string name="dele">Delete</string>
+</resources>
