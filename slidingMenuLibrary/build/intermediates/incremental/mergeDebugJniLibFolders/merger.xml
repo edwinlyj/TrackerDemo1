@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\slidingMenuLibrary\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\AndroidProg\Android\Projects\TrackerDemo\TrackerDemo\slidingMenuLibrary\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\16022895\AndroidStudioProjects\TrackerDemo1\slidingMenuLibrary\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\16022895\AndroidStudioProjects\TrackerDemo1\slidingMenuLibrary\src\debug\jniLibs"/></dataSet></merger>

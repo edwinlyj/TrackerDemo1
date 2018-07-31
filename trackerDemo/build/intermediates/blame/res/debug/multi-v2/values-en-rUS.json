@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\AndroidProg\\Android\\Projects\\TrackerDemo\\TrackerDemo\\trackerDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
+            "outputFile": "C:\\Users\\16022895\\AndroidStudioProjects\\TrackerDemo1\\trackerDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
             "map": [
                 {
-                    "source": "C:\\AndroidProg\\Android\\Projects\\TrackerDemo\\TrackerDemo\\trackerDemo\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "source": "C:\\Users\\16022895\\AndroidStudioProjects\\TrackerDemo1\\trackerDemo\\src\\main\\res\\values-en-rUS\\strings.xml",
                     "from": {
                         "startLines": "85,47,145,134,124,113,109,92,53,138,94,115,74,132,98,104,2,8,111,120,6,40,51,63,44,146,144,59,31,42,35,96,83,106,49,136,140,128,14,10,12,101,142,26,90,130,33,76,118,57,22,69,72,61,81,87,38,24,17,66,28",
                         "startColumns": "4,4,4,5,4,4,4,4,4,6,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,7,6,4,4,4,4,4,4,4,4,6,6,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

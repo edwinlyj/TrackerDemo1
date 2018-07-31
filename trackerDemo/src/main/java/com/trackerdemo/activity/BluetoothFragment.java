@@ -47,7 +47,7 @@ import java.util.TimerTask;
 /**
  * Use for displaying the contents
  */
-public class BluetoothFragment extends Fragment implements OnItemClickListener, OnClickListener, BluetoothSearchible {
+public class BluetoothFragment extends android.support.v4.app.Fragment implements OnItemClickListener, OnClickListener, BluetoothSearchible {
 
 	public ListView lv_bluetooth_preserve;
 	ListView lv_bluetooth_increase;

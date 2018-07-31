@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 19
+    compileSdkVersion 21
     buildToolsVersion '27.0.3'
 
     defaultConfig {
         applicationId "com.trackerdemo.activity"
         minSdkVersion 18
-        targetSdkVersion 21
+        targetSdkVersion 19
     }
 
     buildTypes {
@@ -18,12 +18,13 @@ android {
     }
 
     aaptOptions {
-            cruncherEnabled false
-        }
+        cruncherEnabled false
+    }
 }
 
 dependencies {
     implementation project(':slidingMenuLibrary')
     api 'com.nextgen.biiken:biikensdk:1.0.0'
     //compile files('libs/swallesdk.jar')
+    implementation 'com.android.support.constraint:constraint-layout:1.1.2'
 }

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\AndroidProg\\Android\\Projects\\TrackerDemo\\TrackerDemo\\trackerDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "outputFile": "C:\\Users\\16022895\\AndroidStudioProjects\\TrackerDemo1\\trackerDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
             "map": [
                 {
-                    "source": "C:\\AndroidProg\\Android\\Projects\\TrackerDemo\\TrackerDemo\\trackerDemo\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "source": "C:\\Users\\16022895\\AndroidStudioProjects\\TrackerDemo1\\trackerDemo\\src\\main\\res\\values-zh-rCN\\strings.xml",
                     "from": {
                         "startLines": "413,378,328,443,432,422,405,401,385,129,436,387,407,59,102,80,239,337,145,165,171,360,430,160,391,396,202,2,177,185,135,132,143,120,148,403,418,95,118,321,333,350,325,444,441,366,237,346,200,195,312,323,369,20,53,137,316,389,24,376,398,211,426,181,167,99,280,330,434,438,235,8,38,26,410,30,32,198,64,126,122,124,12,393,141,307,249,245,383,214,226,223,158,89,428,314,93,362,139,150,91,416,22,36,97,270,291,297,18,10,51,156,152,259,257,342,48,45,71,303,355,358,348,282,278,74,68,344,374,380,319,305,28,261,295,189,251,57,55,272,247,77,82,128,154,352,183,293,61,40,187,179,169,34,340,309",
                         "startColumns": "4,4,4,6,5,4,4,4,4,4,6,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,7,6,4,4,4,4,4,4,4,4,1,4,4,4,4,1,4,4,4,4,4,4,4,4,4,6,6,4,4,4,1,4,4,4,4,4,4,4,4,1,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,1,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

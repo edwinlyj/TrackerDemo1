@@ -49,7 +49,7 @@ public class MainActivity extends SlidingFragmentActivity implements OnOpenListe
 
     private static final String TAG = "MainActivity";
 
-	public Button bt_menu;
+	public Button bt_menu, bt_settings;
 	public Button bt_tubiao;
     public TextView tv_state; // Connection status
     public TextView tv_dis; // Distance (Far, Mid, Near)
@@ -146,6 +146,8 @@ public class MainActivity extends SlidingFragmentActivity implements OnOpenListe
 		WindowManager m = (WindowManager) getSystemService(Context.WINDOW_SERVICE);
 		display = m.getDefaultDisplay();
 
+
+
 		initSlidingMenu(); // initiate the sliding menu
 		initView(); // initiate the main
 		initData();
@@ -165,7 +167,6 @@ public class MainActivity extends SlidingFragmentActivity implements OnOpenListe
 		getSlidingMenu().toggle();
 
 		bluetoothFragment = new BluetoothFragment();
-
         // Set the left view of the sliding menu
 		setBehindContentView(R.layout.bluetooth);
 		getSupportFragmentManager().beginTransaction().replace(R.id.bluetooth1, bluetoothFragment).commit();
@@ -180,9 +181,11 @@ public class MainActivity extends SlidingFragmentActivity implements OnOpenListe
 		tv_rssi = (TextView) findViewById(R.id.tv_rssi); // signal strength (weak, mid, strong)
 		iv_electricity = (ImageView) findViewById(R.id.iv_electricity); // battery power
 		bt_menu = (Button) findViewById(R.id.bt_menu); // menu button (top)
+        bt_settings = (Button)findViewById(R.id.bt_settings); //settings button (top)
 		bt_tubiao = (Button) findViewById(R.id.bt_tubiao); // paging button (bottom)
 		bt_menu.setOnClickListener(this);
 		bt_tubiao.setOnClickListener(this);
+		bt_settings.setOnClickListener(this);
 	}
 
 	private void initData() {
@@ -549,6 +552,9 @@ public class MainActivity extends SlidingFragmentActivity implements OnOpenListe
                 }
 
                 break;
+            case R.id.bt_settings:
+                Intent intent = new Intent(MainActivity.this,SettingsActivity.class);
+                startActivityForResult(intent, 0);
         }
     }
 
